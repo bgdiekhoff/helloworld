@@ -1,6 +1,7 @@
 int main(){
 cout << "hello world";
 
+cout << "cat";
 return 0;
 }
 
